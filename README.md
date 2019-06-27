@@ -7,22 +7,22 @@ Any contribution is appreciate.
 
 ### AX12-AX18:
 
-![](https://github.com/Alexandre-lefalher/creature/blob/master/Img/quadrupedAx18.JPG)
+![](https://github.com/Legendexo/creatur/blob/master/Img/quadrupedAx18.JPG)
 
 ### MX28:
 
-![](https://github.com/Alexandre-lefalher/creature/blob/master/Img/QuadrupedMx28.JPG)
+![](https://github.com/Legendexo/creatur/blob/master/Img/QuadrupedMx28.JPG)
 
 
 ##Hexapod
 
 ### AX12-AX18:
 
-![](https://github.com/Alexandre-lefalher/creature/blob/master/Img/hexaAx18.JPG)
+![](https://github.com/Legendexo/creatur/blob/master/Img/hexaAx18.JPG)
 
 ### MX28:
 
-![](https://github.com/Alexandre-lefalher/creature/blob/master/Img/hexaMX28.JPG)
+![](https://github.com/Legendexo/creatur/blob/master/Img/hexaMX28.JPG)
 
 
 
